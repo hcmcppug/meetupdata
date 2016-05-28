@@ -1,0 +1,485 @@
+Malaga,0-0,Sevilla
+Espanyol,1-0,Getafe
+Deportivo,0-0,Real Sociedad
+Atletico,1-0,Las Palmas
+Rayo,0-0,Valencia
+Athletic,0-1,Barcelona
+Sporting,0-0,Real Madrid
+Levante,1-2,Celta
+Betis,1-1,Villarreal
+Granada,1-3,Eibar
+
+Villarreal,3-1,Espanyol
+Real Sociedad,0-0,Sporting
+Barcelona,1-0,Malaga
+Celta,3-0,Rayo
+Real Madrid,5-0,Betis
+Eibar,2-0,Athletic
+Sevilla,0-3,Atletico
+Valencia,1-1,Deportivo
+Las Palmas,0-0,Levante
+Getafe,1-2,Granada
+
+Levante,1-1,Sevilla
+Espanyol,0-6,Real Madrid
+Sporting,0-1,Valencia
+Atletico,1-2,Barcelona
+Betis,1-0,Real Sociedad
+Granada,1-3,Villarreal
+Athletic,3-1,Getafe
+Celta,3-3,Las Palmas
+Malaga,0-0,Eibar
+Rayo,1-3,Deportivo
+
+
+
+Getafe,1-0,Malaga
+Real Madrid,1-0,Granada
+Valencia,0-0,Betis
+Eibar,0-2,Atletico
+Real Sociedad,2-3,Espanyol
+Sevilla,1-2,Celta
+Deportivo,2-3,Sporting
+Villarreal,3-1,Athletic
+Barcelona,4-1,Levante
+Las Palmas,0-1,Rayo
+
+
+
+Atletico,2-0,Getafe
+Espanyol,1-0,Valencia
+Granada,0-3,Real Sociedad
+Celta,4-1,Barcelona
+Rayo,2-1,Sporting
+Levante,2-2,Eibar
+Athletic,1-2,Real Madrid
+Malaga,0-1,Villarreal
+Las Palmas,2-0,Sevilla
+Betis,1-2,Deportivo
+
+
+
+Valencia,1-0,Granada
+Barcelona,2-1,Las Palmas
+Real Madrid,0-0,Malaga
+Sevilla,3-2,Rayo
+Villarreal,1-0,Atletico
+Eibar,1-1,Celta
+Sporting,1-2,Betis
+Deportivo,3-0,Espanyol
+Getafe,3-0,Levante
+Real Sociedad,0-0,Athletic
+
+
+
+Celta,0-0,Getafe
+Sevilla,2-1,Barcelona
+Granada,1-1,Deportivo
+Espanyol,1-2,Sporting
+Las Palmas,0-2,Eibar
+Malaga,3-1,Real Sociedad
+Rayo,0-2,Betis
+Athletic,3-1,Valencia
+Levante,1-0,Villarreal
+Atletico,1-1,Real Madrid
+
+
+
+Real Madrid,3-0,Levante
+Eibar,1-1,Sevilla
+Barcelona,5-2,Rayo
+Valencia,3-0,Malaga
+Betis,1-3,Espanyol
+Villarreal,1-2,Celta
+Real Sociedad,0-2,Atletico
+Getafe,4-0,Las Palmas
+Deportivo,2-2,Athletic
+Sporting,3-3,Granada
+
+
+
+Rayo,3-0,Espanyol
+Celta,1-3,Real Madrid
+Granada,1-1,Betis
+Sevilla,5-0,Getafe
+Malaga,2-0,Deportivo
+Levante,0-4,Real Sociedad
+Las Palmas,0-0,Villarreal
+Barcelona,3-1,Eibar
+Atletico,2-1,Valencia
+Athletic,3-0,Sporting
+
+
+
+Deportivo,1-1,Atletico
+Real Madrid,3-1,Las Palmas
+Valencia,3-0,Levante
+Villarreal,2-1,Sevilla
+Getafe,0-2,Barcelona
+Real Sociedad,2-3,Celta
+Eibar,1-0,Rayo
+Espanyol,1-1,Granada
+Sporting,1-0,Malaga
+Betis,1-3,Athletic
+
+
+
+Las Palmas,2-0,Real Sociedad
+Celta,1-5,Valencia
+Levante,1-1,Deportivo
+Rayo,2-1,Granada
+Eibar,3-1,Getafe
+Malaga,0-1,Betis
+Athletic,2-1,Espanyol
+Barcelona,3-0,Villarreal
+Atletico,1-0,Sporting
+Sevilla,3-2,Real Madrid
+
+
+
+Real Sociedad,2-0,Sevilla
+Real Madrid,0-4,Barcelona
+Espanyol,2-0,Malaga
+Valencia,1-1,Las Palmas
+Deportivo,2-0,Celta
+Sporting,0-3,Levante
+Villarreal,1-1,Eibar
+Granada,2-0,Athletic
+Betis,0-1,Atletico
+Getafe,1-1,Rayo
+
+
+
+Levante,0-1,Betis
+Barcelona,4-0,Real Sociedad
+Atletico,1-0,Espanyol
+Malaga,2-2,Granada
+Las Palmas,0-2,Deportivo
+Celta,2-1,Sporting
+Getafe,2-0,Villarreal
+Eibar,0-2,Real Madrid
+Rayo,0-3,Athletic
+Sevilla,1-0,Valencia
+
+
+
+Real Madrid,4-1,Getafe
+Granada,0-2,Atletico
+Valencia,1-1,Barcelona
+Deportivo,1-1,Sevilla
+Betis,1-1,Celta
+Real Sociedad,2-1,Eibar
+Villarreal,2-1,Rayo
+Sporting,3-1,Las Palmas
+Athletic,0-0,Malaga
+Espanyol,1-1,Levante
+
+
+
+Getafe,1-1,Real Sociedad
+Barcelona,2-2,Deportivo
+Celta,1-0,Espanyol
+Levante,1-2,Granada
+Sevilla,2-0,Sporting
+Las Palmas,1-0,Betis
+Rayo,1-2,Malaga
+Eibar,1-1,Valencia
+Atletico,2-1,Athletic
+Villarreal,1-0,Real Madrid
+
+
+
+Valencia,2-2,Getafe
+Espanyol,1-0,Las Palmas
+Betis,0-0,Sevilla
+Deportivo,2-0,Eibar
+Real Madrid,10-2,Rayo
+Athletic,2-0,Levante
+Real Sociedad,0-2,Villarreal
+Granada,0-2,Celta
+Malaga,1-0,Atletico
+Sporting,1-3,Barcelona
+
+
+
+Real Madrid,3-1,Real Sociedad
+Levante,0-1,Malaga
+Sevilla,2-0,Espanyol
+Rayo,0-2,Atletico
+Eibar,2-0,Sporting
+Celta,0-1,Athletic
+Barcelona,4-0,Betis
+Getafe,0-0,Deportivo
+Las Palmas,4-1,Granada
+Villarreal,1-0,Valencia
+
+
+
+Espanyol,0-0,Barcelona
+Atletico,1-0,Levante
+Malaga,2-0,Celta
+Rayo,2-2,Real Sociedad
+Betis,0-4,Eibar
+Granada,2-1,Sevilla
+Athletic,2-2,Las Palmas
+Deportivo,1-2,Villarreal
+Valencia,2-2,Real Madrid
+Sporting,1-2,Getafe
+
+
+
+Barcelona,4-0,Granada
+Sevilla,2-0,Athletic
+Getafe,1-0,Betis
+Real Madrid,5-0,Deportivo
+Levante,2-1,Rayo
+Villarreal,2-0,Sporting
+Real Sociedad,2-0,Valencia
+Las Palmas,1-1,Malaga
+Eibar,2-1,Espanyol
+Celta,0-2,Atletico
+
+
+
+Sevilla,2-1,Malaga
+Celta,4-3,Levante
+Villarreal,0-0,Betis
+Real Sociedad,1-1,Deportivo
+Valencia,2-2,Rayo
+Real Madrid,5-1,Sporting
+Las Palmas,0-3,Atletico
+Getafe,3-1,Espanyol
+Barcelona,6-0,Athletic
+Eibar,5-1,Granada
+
+
+
+Sporting,5-1,Real Sociedad
+Malaga,1-2,Barcelona
+Espanyol,2-2,Villarreal
+Granada,3-2,Getafe
+Rayo,3-0,Celta
+Athletic,5-2,Eibar
+Atletico,0-0,Sevilla
+Deportivo,1-1,Valencia
+Betis,1-1,Real Madrid
+Levante,3-2,Las Palmas
+
+
+
+Barcelona,2-1,Atletico
+Eibar,1-2,Malaga
+Getafe,0-1,Athletic
+Villarreal,1-0,Granada
+Real Sociedad,2-1,Betis
+Sevilla,3-1,Levante
+Valencia,0-1,Sporting
+Las Palmas,2-1,Celta
+Real Madrid,6-0,Espanyol
+Deportivo,2-2,Rayo
+
+
+
+Malaga,3-0,Getafe
+Atletico,3-1,Eibar
+Rayo,2-0,Las Palmas
+Athletic,0-0,Villarreal
+Sporting,1-1,Deportivo
+Levante,0-2,Barcelona
+Betis,1-0,Valencia
+Celta,1-1,Sevilla
+Granada,1-2,Real Madrid
+Espanyol,0-5,Real Sociedad
+
+
+
+Sporting,2-2,Rayo
+Real Madrid,4-2,Athletic
+Villarreal,1-0,Malaga
+Valencia,2-1,Espanyol
+Deportivo,2-2,Betis
+Real Sociedad,3-0,Granada
+Sevilla,2-0,Las Palmas
+Eibar,2-0,Levante
+Getafe,0-1,Atletico
+Barcelona,6-1,Celta
+
+
+
+Levante,3-0,Getafe
+Las Palmas,1-2,Barcelona
+Espanyol,1-0,Deportivo
+Betis,1-1,Sporting
+Celta,3-2,Eibar
+Rayo,2-2,Sevilla
+Malaga,1-1,Real Madrid
+Athletic,0-1,Real Sociedad
+Granada,1-2,Valencia
+Atletico,0-0,Villarreal
+
+
+
+Eibar,0-1,Las Palmas
+Real Madrid,0-1,Atletico
+Sporting,2-4,Espanyol
+Getafe,0-1,Celta
+Betis,2-2,Rayo
+Real Sociedad,1-1,Malaga
+Villarreal,3-0,Levante
+Valencia,0-3,Athletic
+Deportivo,0-1,Granada
+Barcelona,2-1,Sevilla
+
+
+
+Atletico,3-0,Real Sociedad
+Las Palmas,4-0,Getafe
+Athletic,4-1,Deportivo
+Celta,0-0,Villarreal
+Sevilla,1-0,Eibar
+Malaga,1-2,Valencia
+Levante,1-3,Real Madrid
+Granada,2-0,Sporting
+Espanyol,0-3,Betis
+Rayo,1-5,Barcelona
+
+
+
+Real Madrid,7-1,Celta
+Villarreal,0-1,Las Palmas
+Getafe,1-1,Sevilla
+Deportivo,3-3,Malaga
+Betis,2-0,Granada
+Eibar,0-4,Barcelona
+Real Sociedad,1-1,Levante
+Sporting,0-2,Athletic
+Valencia,1-3,Atletico
+Espanyol,2-1,Rayo
+
+
+
+Malaga,1-0,Sporting
+Barcelona,6-0,Getafe
+Celta,1-0,Real Sociedad
+Atletico,3-0,Deportivo
+Rayo,1-1,Eibar
+Levante,1-0,Valencia
+Sevilla,4-2,Villarreal
+Athletic,3-1,Betis
+Las Palmas,1-2,Real Madrid
+Granada,1-1,Espanyol
+
+
+
+Getafe,1-1,Eibar
+Sporting,2-1,Atletico
+Real Sociedad,0-1,Las Palmas
+Granada,2-2,Rayo
+Deportivo,2-1,Levante
+Betis,0-1,Malaga
+Espanyol,2-1,Athletic
+Villarreal,2-2,Barcelona
+Valencia,0-2,Celta
+Real Madrid,4-0,Sevilla
+
+
+
+Rayo,2-0,Getafe
+Atletico,5-1,Betis
+Las Palmas,2-1,Valencia
+Barcelona,1-2,Real Madrid
+Celta,1-1,Deportivo
+Athletic,1-1,Granada
+Malaga,1-1,Espanyol
+Eibar,1-2,Villarreal
+Sevilla,1-2,Real Sociedad
+Levante,0-0,Sporting
+
+
+
+Granada,0-0,Malaga
+Real Madrid,4-0,Eibar
+Espanyol,1-3,Atletico
+Real Sociedad,1-0,Barcelona
+Betis,1-0,Levante
+Sporting,0-1,Celta
+Valencia,2-1,Sevilla
+Villarreal,2-0,Getafe
+Athletic,1-0,Rayo
+Deportivo,1-3,Las Palmas
+
+
+
+Levante,2-1,Espanyol
+Getafe,1-5,Real Madrid
+Las Palmas,1-1,Sporting
+Eibar,2-1,Real Sociedad
+Celta,1-1,Betis
+Malaga,0-1,Athletic
+Sevilla,1-1,Deportivo
+Atletico,3-0,Granada
+Rayo,2-1,Villarreal
+Barcelona,1-2,Valencia
+
+
+
+Espanyol,1-1,Celta
+Betis,1-0,Las Palmas
+Deportivo,0-8,Barcelona
+Athletic,0-1,Atletico
+Malaga,1-1,Rayo
+Valencia,4-0,Eibar
+Sporting,2-1,Sevilla
+Real Madrid,3-0,Villarreal
+Real Sociedad,1-2,Getafe
+Granada,5-1,Levante
+
+
+
+Las Palmas,4-0,Espanyol
+Rayo,2-3,Real Madrid
+Atletico,1-0,Malaga
+Barcelona,6-0,Sporting
+Eibar,1-1,Deportivo
+Levante,2-2,Athletic
+Sevilla,2-0,Betis
+Getafe,2-2,Valencia
+Villarreal,0-0,Real Sociedad
+Celta,2-1,Granada
+
+
+
+Sporting,2-0,Eibar
+Real Sociedad,0-1,Real Madrid
+Atletico,1-0,Rayo
+Betis,0-2,Barcelona
+Granada,3-2,Las Palmas
+Athletic,2-1,Celta
+Espanyol,1-0,Sevilla
+Deportivo,0-2,Getafe
+Valencia,0-2,Villarreal
+Malaga,3-1,Levante
+
+
+Celta,1-0,Malaga
+Barcelona,5-0,Espanyol
+Sevilla,1-4,Granada
+Real Madrid,3-2,Valencia
+Real Sociedad,2-1,Rayo
+Las Palmas,0-0,Athletic
+Villarreal,0-2,Deportivo
+Levante,2-1,Atletico
+Eibar,1-1,Betis
+Getafe,1-1,Sporting
+
+
+Valencia,0-1,Real Sociedad
+Deportivo,0-2,Real Madrid
+Granada,0-3,Barcelona
+Athletic,3-1,Sevilla
+Atletico,2-0,Celta
+Malaga,4-1,Las Palmas
+Espanyol,4-2,Eibar
+Rayo,3-1,Levante
+Betis,2-1,Getafe
+Sporting,2-0,Villarreal
